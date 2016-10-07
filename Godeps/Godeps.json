@@ -1,0 +1,16 @@
+{
+	"ImportPath": "anison-bot-00",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.2-196-g3654d25",
+			"Rev": "3654d25ec346ee8ce71a68431025458d52a38ac0"
+		},
+		{
+			"ImportPath": "github.com/line/line-bot-sdk-go/linebot",
+			"Rev": "8635ae812e60724b61ee9f0f9d9bf5c43a49f306"
+		}
+	]
+}
