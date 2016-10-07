@@ -1,4 +1,4 @@
 AniSonBot
 =====
 
-AniSonBot is a LINE BOT returning a lyric to the received song.
+AniSonBot is a LINE BOT replying a lyric when it received an anime-song's name.
